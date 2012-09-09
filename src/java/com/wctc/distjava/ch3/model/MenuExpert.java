@@ -1,4 +1,4 @@
-package com.wctc.distjava.model;
+package com.wctc.distjava.ch3.model;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,6 +1,6 @@
 package com.wctc.distjava.ch3.controller;
 
-import com.wctc.distjava.model.MenuExpert;
+import com.wctc.distjava.ch3.model.MenuExpert;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.ArrayList;
